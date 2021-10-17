@@ -117,7 +117,7 @@ namespace GhepTenThanhPho
             String capital = rbtnCapBudapes.Text;
             if(kt("Hungary", capital))
             {
-                label1.Text = "Chuc mung ban, thu do cua Hungary la " + capital;
+                label1.Text = "Chuc mung ban dung roi, thu do cua Hungary la " + capital;
             }
             else
             {
